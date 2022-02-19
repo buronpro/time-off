@@ -1,7 +1,7 @@
 const elTime = document.querySelector(".time");
 
 
-const startTime = 24;
+const startTime = 60;
 let time = startTime * 60;
 
 
